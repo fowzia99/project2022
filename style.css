@@ -1,1 +1,26 @@
-misson - 2022 of fowzia 
+body {font-family: 'DM Serif Text', serif;
+}
+h1{ 
+   font-size: 40px;
+   font-style: normal ;
+   font-display: meadium;
+color: darksalmon;
+}
+.orange-color{ 
+color:orangered
+}
+section{ 
+display: flex;
+}
+.half-width{
+   width: 80%;
+}
+.p{ 
+    font-display: half;
+    font-variant: normal;
+    font-style: normal;
+    font-size: 80px;
+}
+.half-width image{ 
+    width: 200%;
+    }
