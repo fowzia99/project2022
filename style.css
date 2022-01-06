@@ -37,4 +37,12 @@ margin-bottom: 10px;
         padding-block: 5px;
         }
         
+        my misson area{ 
+            padding-left: 10px 20px;
+            width: 40%;
+          text-shadow: 50px;
+          box-shadow: 10px 10px 40px grey;
+          margin-left: 5%;
+          margin-right: 5%;
+        }
         
