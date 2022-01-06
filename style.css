@@ -9,8 +9,9 @@ color: darksalmon;
 .orange-color{ 
 color:orangered
 }
-section{ 
+.flexible-container{ 
 display: flex;
+margin-bottom: 10px;
 }
 .half-width{
    width: 80%;
@@ -29,11 +30,11 @@ display: flex;
     }
 
  .link-buttton{ 
-        text-decoration:yellowgreen;
         padding: 20px,30px;
         background-color: tomato;
         color: white;
         border-radius: 5px;  
+        padding-block: 5px;
         }
         
         
