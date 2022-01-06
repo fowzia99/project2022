@@ -69,3 +69,10 @@ i
            padding-right: 10%;
            padding-block: 5%;
         }
+        .me flexible-container{
+            display: flex;
+            padding: left 30px;
+            margin-left: 10%;
+            font: smaller;
+            ;
+         }
