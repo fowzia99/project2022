@@ -1,4 +1,4 @@
-body {font-family: 'DM Serif Text', serif;
+body {font-family: 'DM Serif Display', serif;
 }
 h1{ 
    font-size: 40px;
@@ -27,12 +27,13 @@ display: flex;
 .half-width image{ 
     width: 200%;
     }
-    .link-buttton{ 
-        text-decoration: none;
-        padding: 10px,30px;
-        background-color: deeppink;
-        background-image: -moz-repeating-linear-gradient(salmon,purple);
-        border-radius: 10px;
-        color: whitesmoke;
-        font-size: 500;
+
+ .link-buttton{ 
+        text-decoration:yellowgreen;
+        padding: 20px,30px;
+        background-color: tomato;
+        color: white;
+        border-radius: 5px;  
         }
+        
+        
